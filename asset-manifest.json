@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/theo_fortune/static/css/main.ab73e0e3.css",
+    "main.js": "/theo_fortune/static/js/main.8c069e0b.js",
+    "static/media/work4.png": "/theo_fortune/static/media/work4.56b16c3bccd8593940e1.png",
+    "static/media/work3.png": "/theo_fortune/static/media/work3.94f8c160c6bf8b1cf8fb.png",
+    "static/media/work5.png": "/theo_fortune/static/media/work5.8933d40a8b59fe293845.png",
+    "static/media/user6.jpg": "/theo_fortune/static/media/user6.054137b00dad7d941817.jpg",
+    "static/media/work2.png": "/theo_fortune/static/media/work2.6f9e7c9e40a6591d05d2.png",
+    "static/media/work1.png": "/theo_fortune/static/media/work1.74bcc56b3aa065f3fc28.png",
+    "static/media/user2.jpg": "/theo_fortune/static/media/user2.29f55a7a6bc39e2a6913.jpg",
+    "static/media/user1.jpg": "/theo_fortune/static/media/user1.6460b2aa7b455715bcaf.jpg",
+    "static/media/user3.jpg": "/theo_fortune/static/media/user3.851f9e00c695673324e6.jpg",
+    "static/media/user5.jpg": "/theo_fortune/static/media/user5.9c9bc050bb825c085e50.jpg",
+    "static/media/profile.jpg": "/theo_fortune/static/media/profile.c874ce76c4e7716a5805.jpg",
+    "static/media/helmet.png": "/theo_fortune/static/media/helmet.8081b83a0b7e0039ae8c.png",
+    "static/media/user4.jpg": "/theo_fortune/static/media/user4.04b938bdc81827044ab8.jpg",
+    "static/media/user7.jpg": "/theo_fortune/static/media/user7.66029ebc47e33ed34151.jpg",
+    "static/media/fortunes-resume.pdf": "/theo_fortune/static/media/fortunes-resume.30715c684149f0b06ced.pdf",
+    "index.html": "/theo_fortune/index.html",
+    "main.ab73e0e3.css.map": "/theo_fortune/static/css/main.ab73e0e3.css.map",
+    "main.8c069e0b.js.map": "/theo_fortune/static/js/main.8c069e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab73e0e3.css",
+    "static/js/main.8c069e0b.js"
+  ]
+}
