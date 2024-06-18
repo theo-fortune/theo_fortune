@@ -1,0 +1,49 @@
+.top {
+  position: fixed;
+  right: 2.5rem;
+  bottom: -20%;
+  background: var(--title-color);
+  opacity: .8;
+  padding: 0.3rem .5rem;
+  border-radius: .4rem;
+  z-index: 10;
+  transition: .4s;
+}
+
+.top-icon {
+  font-size: 1.5rem;
+  color: var(--container-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.top:hover {
+  background: var(--title-color-dark);
+}
+
+.show-top {
+  bottom: 3rem;
+}
+
+@media screen and (max-width: 992px) {
+  .top {
+    right: 1.5rem;padding: 0.25rem .4rem;
+  }
+
+  .top-icon {
+    font-size: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 763px) {
+  .show-top {
+    bottom: 4rem;
+  }
+}
+
+@media screen and (max-width: 763px){
+  .top {
+    right: 1rem;
+  }
+}
